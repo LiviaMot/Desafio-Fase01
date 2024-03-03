@@ -14,7 +14,7 @@ body {
   margin: 0 auto 72px;
 }
 
-img {
+#hero img {
   margin-bottom: 72px;
 }
 
@@ -58,7 +58,6 @@ p, #footer {
   margin-bottom: 33px;
 }
 
-/* Não consegui colocar do jeito do projeto. */
 #balls {
   position: fixed;
   bottom: 0px;
